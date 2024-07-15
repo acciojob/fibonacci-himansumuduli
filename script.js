@@ -4,7 +4,7 @@ function fibonacci(num) {
 		return 0;
 	}
 	else if(num === 1){
-		return 1;
+		return 0;
 	}
 	let a=0;
 	let b=1;
